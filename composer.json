@@ -1,0 +1,15 @@
+{
+    "name": "showman/phpmvcframework",
+    "authors": [
+        {
+            "name": "Showman",
+            "email": "showman.sh.ahmed@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\":"./"
+        }
+    },
+    "require": {}
+}
