@@ -2,7 +2,7 @@
 Action Domain Responder organizes a single user
 interface interaction between an HTTP client and a HTTP server-side application into three distinct roles.
 # Components ADR
- Action: is the logic to connect the Domain and Responder. 
+ - [Action](#Action): is the logic to connect the Domain and Responder. 
  It invokes the Domain with inputs collected from the HTTP Request, then invokes the Responder with the data needed to build an HTTP Response.
  
 Domain: is an entry point to the domain logic forming the core of the application.
