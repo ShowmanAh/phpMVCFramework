@@ -24,5 +24,6 @@ interface interaction between an HTTP client and a HTTP server-side application 
   - [Table of Contents](#table-of-contents)
      - [User Module](#User-Module)
         - [Actions](#Actions)
+            - [RegisterUserAction](#RegisterUserAction)
     
      
