@@ -15,5 +15,7 @@ interface interaction between an HTTP client and a HTTP server-side application 
   
  - The Action invokes the Domain, collecting any required inputs to the Domain from the HTTP Request.
  - The Action then invokes the Responder with the data it needs to build an HTTP Response.
+ -  The Responder builds an HTTP Response using the data fed to it by the Action.
+ -  The Action returns the HTTP Response to the web handler sends the HTTP Response.
   
      
