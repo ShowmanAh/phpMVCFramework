@@ -22,7 +22,7 @@ interface interaction between an HTTP client and a HTTP server-side application 
 
 - [Structure](#Structure)
   - [Table of Contents](#table-of-contents)
-     - [User Module](#User-Module)
+     - [User Module](#Users-Module)
         - [Actions](#Actions)
             - [RegisterUserActions](#RegisterUserActions)
             - [LoginUserActions](#LoginUserActions)
@@ -36,6 +36,10 @@ interface interaction between an HTTP client and a HTTP server-side application 
            - [Resources](#Resources) 
            - [Observers](#Observers) 
            - [Repositories](#Repositories) 
+           
+        - [Responders](#Responders) 
+           - [RegisterUserResponders](#RegisterUserResponders)
+           
           
     
      
