@@ -53,6 +53,9 @@ interface interaction between an HTTP client and a HTTP server-side application 
 
 - [App Modules](#App-Modules)
   - [User Module](#[User-Module)
+       - [Actions](#Actions)
+       - [Actions](#Actions)
+       - [Actions](#Actions)
   - [Category Module](#[Category-Module)
   - [Product Module](#[Product-Module)
   - [Cart Module](#[Cart-Module)
