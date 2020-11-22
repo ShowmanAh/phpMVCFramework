@@ -20,9 +20,9 @@ interface interaction between an HTTP client and a HTTP server-side application 
  
  ## <a name="toc">Table of Contents</a>
 
-- [Back-End Interview Topics](#back-end-interview-topics)
+- [Structure](#Structure)
   - [Table of Contents](#table-of-contents)
-    - [Programming Languages](#programming-languages)
-      - [JavaScript](#javascript)
+    - [User Module](#User Module)
+      - [Actions](#Actions)
     
      
