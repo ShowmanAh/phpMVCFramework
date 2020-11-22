@@ -27,6 +27,11 @@ interface interaction between an HTTP client and a HTTP server-side application 
             - [RegisterUserActions](#RegisterUserActions)
             - [LoginUserActions](#LoginUserActions)
             
-        - [Domain](#Domain)    
+        - [Domain](#Domain) 
+           - [Services](#Services) 
+           - [Services](#Services) 
+           - [Services](#Services) 
+           - [Services](#Services) 
+           - [Services](#Services) 
     
      
