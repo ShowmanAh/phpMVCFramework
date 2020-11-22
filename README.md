@@ -29,7 +29,7 @@ interface interaction between an HTTP client and a HTTP server-side application 
             
         - [Domain](#Domain) 
            - [Services](#Services) 
-                   - [RegisterUserActions](#RegisterUserActions)
+                - [RegisterUserActions](#RegisterUserActions)
            - [Models](#Models) 
                  - [RegisterUserActions](#RegisterUserActions)
            - [Events](#Events) 
