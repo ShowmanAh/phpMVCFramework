@@ -48,8 +48,11 @@ interface interaction between an HTTP client and a HTTP server-side application 
         - [Responders](#Responders) 
            - [RegisterUserResponders](#RegisterUserResponders)
            
-  - [Back-End Interview Topics](#back-end-interview-topics)
-      - [Table of Contents](#table-of-contents)
-        - [Programming Languages](#programming-languages)
+ 
+ ## <a name="toc">Table of Contents</a>
+
+- [Back-End Interview Topics](#back-end-interview-topics)
+  - [Table of Contents](#table-of-contents)
+    - [Programming Languages](#programming-languages)
     
      
