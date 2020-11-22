@@ -10,8 +10,10 @@ interface interaction between an HTTP client and a HTTP server-side application 
 
 - [Responder](#Responder): is the presentation logic to build an HTTP Response using data it receives from the Action.
    It deals with status codes, headers and cookies, content, formatting and transformation, templates and views, and so on. 
-### <a name="programming-languages">Programming Languages</a>
- - What are the *programming paradigms* supported by JavaScript?
+### <a name="ADR PROCESS">ADR PROCESS</a>
+ - The web handler receives an HTTP Request and dispatches it to an Action.
   
-  - What is the difference between ***classical inheritance*** and ***prototypal inheritance***?
+ - The Action invokes the Domain, collecting any required inputs to the Domain from the HTTP Request.
+ - The Action then invokes the Responder with the data it needs to build an HTTP Response.
+  
      
